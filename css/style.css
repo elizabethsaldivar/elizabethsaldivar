@@ -131,14 +131,16 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #intro {
   padding: 100px 0;
+  background: #333333;
 }
 #intro .block h2 {
   padding-top: 35px;
   line-height: 27px;
   margin: 0;
+  color: #CCCCCC;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #CCCCCC;
   padding-top: 20px;
 }
 #intro .block img {
@@ -243,14 +245,16 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   padding: 100px 0;
+  color: #CCCCCC;
 }
 #feature h2 {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
+  color: #CCCCCC;
 }
 #feature p {
-  color: #8d8f92;
+  color: #CCCCCC;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
@@ -766,7 +770,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	footer Start 
 --*/
 footer {
-  background: #F5F5F5;
+  background: #333333;
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
@@ -792,7 +796,7 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #494949;
+  color: #CCCCCC;
 }
 footer .footer-manu ul li a:hover {
   color: #000;
