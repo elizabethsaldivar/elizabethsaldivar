@@ -57,7 +57,7 @@ a:active {
 	Header Start 
 --*/
 header {
-  background: #C0C0C0;
+  background: #333333;
   padding: 20px 0;
 }
 header .navbar {
@@ -75,7 +75,7 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: #CCCCCC;
   padding: 10px 26px;
   font-size: 15px;
 }
@@ -105,11 +105,11 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  background: linear-gradient(to left, #333333, #333333);
   opacity: 0.8;
 }
 #slider .block {
-  color: #E3E3E4;
+  color: #CCCCCC;
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
